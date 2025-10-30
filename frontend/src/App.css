@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+h1 {
+  color: #4b5cf0;
+}
